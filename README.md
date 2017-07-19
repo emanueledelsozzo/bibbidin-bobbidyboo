@@ -1,4 +1,4 @@
-# README #
+# Bibbidi N-BObbiDY Boo #
 
 This repository contains the project "Bibbidi N-BObbiDY Boo", which was sumbitted to the Xilinx Open Hardware 2017. The goal of this project is to accelerate N-Body simulation on Xilinx's FPGA.
 
