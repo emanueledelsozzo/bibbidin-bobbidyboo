@@ -1,6 +1,7 @@
 
 // Authors:
-// Emanuele Del Sozzo, Lorenzo Di Tucci, Marco Rabozzi, Marco Nanni
+//	Emanuele Del Sozzo (emanuele.delsozzo@polimi.it), Lorenzo Di Tucci (lorenzo.ditucci@polimi.it), 
+//  Marco Rabozzi (marco.rabozzi@polimi.it), Marco Nanni (marco3.nanni@mail.polimi.it)
 
 
 #ifndef SUPPORT_H_
